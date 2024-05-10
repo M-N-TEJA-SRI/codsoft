@@ -1,8 +1,10 @@
 # mobile signup
 ## task 1
 figma link  -> [mobile signup](https://www.figma.com/file/RpgKM6sV40qU094BIb0gMk/Untitled?type=design&mode=design&t=XbK5tzhmZSo46Wvt-0)
-figma link  -> [mobile signup](https://www.figma.com/design/EgM61Jn8GtKGXpPYjI9A6Y/Untitled?node-id=0-1&t=DnL1USZ7JmE2jqcM-0)
 ![mobile signup](signup.png)
+### other example
+figma link  -> [mobile signup](https://www.figma.com/design/EgM61Jn8GtKGXpPYjI9A6Y/Untitled?node-id=0-1&t=DnL1USZ7JmE2jqcM-0)
+
 # newsletter
 ## task 2
 figma link  -> [newsletter](https://www.figma.com/file/oXG6lTyZXbytpTLkX2Na3x/Untitled?type=design&mode=design&t=XbK5tzhmZSo46Wvt-0)
