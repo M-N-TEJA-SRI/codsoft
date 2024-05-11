@@ -9,6 +9,8 @@ figma link  -> [mobile signup](https://www.figma.com/design/EgM61Jn8GtKGXpPYjI9A
 ## task 2
 figma link  -> [newsletter](https://www.figma.com/file/oXG6lTyZXbytpTLkX2Na3x/Untitled?type=design&mode=design&t=XbK5tzhmZSo46Wvt-0)
 ![newsletter](newsletter.png)
+figma link  -> [newsletter](https://www.figma.com/design/kqDC2nTARWDkv5Wy2OEWWS/Untitled?node-id=0-1&t=AYB4KrNnBsaE1Yfb-0)
+![newsletter](email template.PNG)
 # restaurant menu card 
 ## task 3
 figma link  -> [restaurant menu card](https://www.figma.com/file/5uIMTV6ysccb5E23DlrEvd/Untitled?type=design&mode=design&t=XbK5tzhmZSo46Wvt-0)
