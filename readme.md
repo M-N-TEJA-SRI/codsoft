@@ -23,3 +23,5 @@ figma link  -> [restaurant menu card](https://www.figma.com/design/iiH7HnRDItPZr
 ## task 4
 figma link -> [ecommerce website](https://www.figma.com/file/5DiyAeh5FoTyunjOGh8Io0/ecommerce-website?type=design&node-id=0-1&mode=design&t=XbK5tzhmZSo46Wvt-0)
 ![ecommerce](ecommerce%20website.png)
+figma link -> [ecommerce website](https://www.figma.com/design/njI3FpuwWHdDPYsoOOL8ec/ecommercewebsitetwo?node-id=0-1&t=xCLQGjXZJb3mhpu7-0)
+![ecommerce](ecommercewebsitetwo.PNG)
